@@ -1,3 +1,3 @@
-"# QR-Code-generator" 
-"# Sample Output"
+# QR-Code-generator
+# Output
 ![Alt text](output.png)
